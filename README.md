@@ -1,7 +1,7 @@
 # study_plus_2020
 2020년 1학기 상명대학교 스터디 상생플러스의 project repository입니다.
 
-자가동선기록앱 개발 목적
+Android Studio / JAVA / SQLite / FireBase FireStore
 
 
 ### Activity 설명
@@ -21,3 +21,6 @@
 
 
 ### DataBase 설명
+
+
+### 협업 규칙
