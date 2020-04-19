@@ -4,7 +4,7 @@
 자가동선기록앱 개발 목적
 
 
-### This is a Activity 설명
+### Activity 설명
 
 * 메인 (현재 지도와 동선) : MainActivity.java / activity_main.xml
   * 상세기록 남기기 : RecordingActvity.java / activity_recording.xml
@@ -17,7 +17,7 @@
 
 * 설정 : SettingActivity / activity_setting.xml
 
-### This is a 기타 파일 설명
+### 기타 파일 설명
 
 
-### This is a DataBase 설명
+### DataBase 설명
