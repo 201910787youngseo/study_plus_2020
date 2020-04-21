@@ -14,9 +14,11 @@ Android Studio / JAVA / SQLite / FireBase FireStore
   * 기록 지도형식 뷰 : ViewmapfActivity.java / activity_viewmapf.xml     (format의 f)
   * 기록 텍스트형식 뷰 : ViewtextfActivity.java / activity_viewtextf.xml
 
-* 코로나맵 : 
+* 코로나맵 (내동선과 비교할 수 있도록) : 
 
-* 선별진료소 : 
+* 선별진료소 (선별진료소 지도 표시) : 
+
+* 알리미 (확진자 수 알림 + 정보 게시판) : 
 
 * 설정 : SettingActivity / activity_setting.xml
 
